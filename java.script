@@ -18,7 +18,7 @@ import net.authorize.sample.AcceptSuite.GetAcceptCustomerProfilePage;
 import net.authorize.sample.AcceptSuite.GetAnAcceptPaymentPage;
 
 /**
- * Created by anetdeveloper on 8/5/15.
+ * Created by anetdeveloper on 16/7/21.
  */
 public class SampleCode {
 
